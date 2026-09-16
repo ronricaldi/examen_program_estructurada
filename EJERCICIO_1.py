@@ -15,7 +15,7 @@ print(f"Los primeros {n} terminos son:")
 while contador < n:
     
     if contador < n - 1:
-        print(a, end=", ")
+        print(a, end=" ")
     else:
         print(a)
     
